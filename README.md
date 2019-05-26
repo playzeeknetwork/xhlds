@@ -1,5 +1,12 @@
 # xhlds
-hlds xfakeplayers 2017 v6
+hlds xfakeplayers 2019 v14
+
+Working only with Dproto and HLDS / 
+
+EDIT YOUR DPROTO - 
+BAN FAKEPLAYERS -1 = KICK 
+
+NO WORKING WITH REHLDS !
 
 
 BOOST your CS 1.6/HL Server for FREE!
@@ -14,3 +21,5 @@ BOOST your CS 1.6/HL Server for FREE!
 - Added ingame commands for bots
 - Bots can take name ingame or from .txt names file
 - Most of antiBot plugins/moduls are patched
+TUTORIAL 
+https://www.youtube.com/watch?v=osxlKjESVlU
